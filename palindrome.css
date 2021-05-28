@@ -1,0 +1,19 @@
+div{margin-top:20px;}
+body{
+    font-size: larger;
+    background-color: rgb(212, 168, 177);
+}
+#name{
+    padding: 10px;
+    font-size: large;
+    width: 200px;
+}
+#BTN{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    color: pink;
+    box-shadow: 0 0 15px white;
+    outline: none;
+    
+}
